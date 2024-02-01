@@ -7192,7 +7192,7 @@ FIXME this is really an API */
 @define-color content_view_bg #292737;
 @define-color placeholder_text_color #bfbfbf;
 /* Very contrasty background for text views (@theme_text_color foreground) */
-@define-color text_view_bg #1c1c1c;
+@define-color text_view_bg #292737;
 @define-color budgie_tasklist_indicator_color #754ffe;
 @define-color budgie_tasklist_indicator_color_active #754ffe;
 @define-color budgie_tasklist_indicator_color_active_window rgba(174, 174, 174, 0.908);
