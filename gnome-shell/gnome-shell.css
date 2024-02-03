@@ -19,27 +19,27 @@
  */
 /* General Typography */
 .lg-debug-flags-header {
-  font-weight: 800;
+  font-weight: 700;
   font-size: 15pt;
 }
 
 .quick-toggle-menu .header .title {
-  font-weight: 700;
+  font-weight: 600;
   font-size: 15pt;
 }
 
 .bt-menu-placeholder.popup-menu-item {
-  font-weight: 700;
+  font-weight: 600;
   font-size: 13pt;
 }
 
 .background-app-item .title, .lg-extension-name {
-  font-weight: 700;
+  font-weight: 600;
   font-size: 11pt;
 }
 
 .quick-toggle-menu .header .subtitle, .app-menu .popup-inactive-menu-item:first-child > StLabel {
-  font-weight: 700;
+  font-weight: 600;
   font-size: 9pt;
 }
 
@@ -885,12 +885,12 @@ StWidget.focused .app-well-app-running-dot {
 .message-dialog-content .message-dialog-title {
   text-align: center;
   font-size: 18pt;
-  font-weight: 800;
+  font-weight: 700;
 }
 
 .message-dialog-content .message-dialog-title.lightweight {
   font-size: 13pt;
-  font-weight: 800;
+  font-weight: 700;
 }
 
 .message-dialog-content .message-dialog-description {
