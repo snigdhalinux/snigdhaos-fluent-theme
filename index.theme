@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Snigdhaos-Fluent
+Name=Fluent-purple-Dark
 Comment=An Materia Gtk+ theme based on Elegant Design
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Snigdhaos-Fluent
-MetacityTheme=Snigdhaos-Fluent
-IconTheme=Snigdhaos-Fluent
-CursorTheme=Snigdhaos-Fluent
+GtkTheme=Fluent-purple-Dark
+MetacityTheme=Fluent-purple-Dark
+IconTheme=Fluent-Dark
+CursorTheme=Fluent-Dark
 ButtonLayout=close,minimize,maximize:menu
