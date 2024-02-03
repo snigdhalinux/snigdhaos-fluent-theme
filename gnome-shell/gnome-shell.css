@@ -1785,7 +1785,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 .osd-window .level {
   height: 4px;
   -barlevel-height: 4px;
-  -barlevel-background-color: rgba(186, 104, 200, 0.3);
+  -barlevel-background-color: #754ffe30;
   -barlevel-active-background-color: #754FFE;
   -barlevel-overdrive-color: #FF5252;
   -barlevel-overdrive-separator-width: 3px;
@@ -2080,7 +2080,8 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 /* Activities Ripple */
 .ripple-box {
-  background-color: rgba(186, 104, 200, 0.35);
+  /* background-color: rgba(186, 104, 200, 0.35); */
+  background-color: #754FFE35;
   width: 52px;
   height: 52px;
   border-radius: 0 0 52px 0;
@@ -2096,7 +2097,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 #overviewGroup {
-  background-color: #222222;
+  background-color: #20232d;
 }
 
 .overview-controls {
@@ -2141,7 +2142,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 .workspace-background {
   border-radius: 30px;
-  background-color: #222222;
+  background-color: #20232d;
   box-shadow: 0 4px 16px 4px rgba(0, 0, 0, 0.3);
   border: none;
 }
@@ -2737,7 +2738,7 @@ StWidget.focused .app-well-app-running-dot {
 
 /* Workspace animation */
 .workspace-animation {
-  background-color: #222222;
+  background-color: #20232d;
 }
 
 /* Tiled window previews */
@@ -3517,7 +3518,7 @@ StWidget.focused .app-well-app-running-dot {
 }
 
 .screenshot-ui-window-selector {
-  background-color: #222222;
+  background-color: #20232d;
 }
 
 .screenshot-ui-window-selector .screenshot-ui-window-selector-window-container {
@@ -3576,7 +3577,7 @@ StWidget.focused .app-well-app-running-dot {
 
 .screenshot-ui-tooltip {
   color: rgba(255, 255, 255, 0.85);
-  background-color: #222222;
+  background-color: #20232d;
   border-radius: 99px;
   padding: 6px 12px;
   text-align: center;
@@ -3962,7 +3963,7 @@ StWidget.focused .app-well-app-running-dot {
 }
 
 #lockDialogGroup {
-  background-color: #222222;
+  background-color: #20232d;
 }
 
 #unlockDialogNotifications StButton#vhandle, #unlockDialogNotifications StButton#hhandle {
