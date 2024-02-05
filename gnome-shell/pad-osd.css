@@ -1,6 +1,6 @@
 .Leader {
     stroke-width: .5 !important;
-    stroke: #535353;
+    stroke: #22202c;
     fill: none !important;
 }
 
@@ -12,7 +12,7 @@
 
 .Ring {
     stroke-width: .5 !important;
-    stroke: #535353 !important;
+    stroke: #22202c !important;
     fill: none !important;
 }
 
@@ -26,5 +26,5 @@
 .TouchStrip, .TouchRing {
     stroke-width: .1 !important;
     stroke: #ededed !important;
-    fill: #535353 !important;
+    fill: #22202c !important;
 }
